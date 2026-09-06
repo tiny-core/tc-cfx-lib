@@ -1,0 +1,11 @@
+{
+  "extends": "../../../tsconfig.base.json",
+  "compilerOptions": {
+    // A NUI corre num CEF, não no Bun nem no Node: sem estes `lib`/`types` o
+    // vue-tsc não conhece `window`, `fetch` nem os SFCs.
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "types": [],
+    "noEmit": true
+  },
+  "include": ["src/**/*.ts", "src/**/*.vue", "env.d.ts", "../../ui-kit/src/**/*.ts"]
+}
