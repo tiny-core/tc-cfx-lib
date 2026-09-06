@@ -1,0 +1,7 @@
+{
+  "name": "@tc/lib-ui",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vue-tsc --noEmit && vite build" },
+  "dependencies": { "vue": "^3.5.0", "@tc/ui-kit": "workspace:*" }
+}

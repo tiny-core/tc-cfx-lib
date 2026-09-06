@@ -1,0 +1,5 @@
+{
+  "lib.no_permission": "You do not have permission to do that.",
+  "lib.too_fast": "Slow down. Try again in a moment.",
+  "lib.too_far": "You are too far away."
+}
