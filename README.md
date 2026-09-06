@@ -26,4 +26,4 @@ Base partilhada dos recursos `tc_`. **Zero dependências externas.**
 ## Licença
 **LGPL-3.0-or-later.** Usar em recursos fechados e pagos é livre, desde que o `tc_lib`
 continue a ser um recurso separado. Modificar a biblioteca e distribuir a versão modificada
-obriga a publicar as alterações sob a mesma licença. Ver `LICENSE.md`.
+obriga a publicar as alterações sob a mesma licença. Ver `docs/licenca.md`.

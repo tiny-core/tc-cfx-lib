@@ -1,5 +1,5 @@
 --- tc_lib — Copyright (C) 2026 tiny-core
---- Licenciado sob a LGPL-3.0-or-later. Ver LICENSE.md, COPYING e COPYING.LESSER.
+--- Licenciado sob a LGPL-3.0-or-later. Ver LICENSE e licenses/GPL-3.0.txt.
 --- Sem QUALQUER GARANTIA, na medida permitida por lei.
 
 --- tc_lib — carregador de módulos com lazy loading.
